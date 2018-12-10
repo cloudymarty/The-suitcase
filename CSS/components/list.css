@@ -1,0 +1,19 @@
+.list {
+	text-align: center;
+}
+.list-horizontal {
+	display: inline-block;
+	margin-right: 50px;
+}
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline img {
+	border-radius: 50%;
+	width: 200px;
+	box-shadow: 0px 10px 20px rgba(0,0,0,0.2);
+}
+.list-inline img:hover {
+	box-shadow: 0px 5px 15px #2D8522;
+}

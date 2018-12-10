@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=KoHo|Nanum+Gothic+Coding|Noto+Sans+SC|Raleway");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/contact.css");
+@import url("components/list.css");
+@import url("components/avatar.css");
+
+body {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	margin: 0px
+}
+h1 {
+	font-family: 'KoHo', sans-serif;
+	font-size: 70px;
+}
+h2 {
+	font-size: 28px;
+	font-weight:lighter;
+}
+h3 {
+	font-size: 20px;
+	padding-top: 20px;
+}
+a {
+	text-decoration: none;
+}
